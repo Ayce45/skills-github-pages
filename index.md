@@ -2,4 +2,4 @@
 title: Welcome to my blog
 ---
 
-Hello i's me
+Hello it's me
